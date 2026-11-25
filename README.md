@@ -1,6 +1,12 @@
 ![No Ads Studio — orange heart and audio spectrogram](assets/noads-studio-banner.png)
 
-<img src="assets/spectrum-icon.png" alt="Spectrum Audio icon" width="112">
+<h2>Screenshots</h2>
+
+<p>
+  <img src="assets/SpectrumAudio1.jpg" width="280" alt="Spectrum Audio — Screenshot 1">
+  <img src="assets/SpectrumAudio2.jpg" width="280" alt="Spectrum Audio — Screenshot 2">
+  <img src="assets/SpectrumAudio3.jpg" width="280" alt="Spectrum Audio — Screenshot 3">
+</p>
 
 # Spectrum Audio
 
