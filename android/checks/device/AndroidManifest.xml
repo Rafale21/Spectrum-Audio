@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="studio.noads.spectrumaudio.checks">
+    <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="35" />
+    <application android:label="Spectrum Audio codec checks" android:allowBackup="false" />
+    <instrumentation android:name="studio.noads.spectrumaudio.AudioSmoke" android:targetPackage="studio.noads.spectrumaudio.checks" />
+</manifest>

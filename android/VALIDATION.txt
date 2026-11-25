@@ -1,0 +1,8 @@
+Spectrum Audio 1.21 — playback cursor and viewport follow.
+Application ID / Java namespace: studio.noads.spectrumaudio. versionCode22 / versionName1.21, Android8/API26 minimum, SDK35.
+CursorVisibility host checks: cursor pinned while playing, 1500ms deadline after pause/completion, unchanged paused ticks, interactions and touch hold/release, resume and clear.
+ViewMath host checks: paging at the edge, context and bounds, restart/backward seek, end/full/short view, zoom retention, disabled/paused follow and active gestures, large position jumps and deep zoom.
+Follow playback automatically: default ON; stored in activity preferences after Apply; Cancel discards edits. All nine interface languages include the option and explanation. Spectral presets remain independent.
+Complete host suite passes, including audio imports/containers, recording, adaptive detail, Windows FFT parity, language catalogs, presets and display geometry.
+Signed application compiles with the local SDK build. APK signature, application ID and version metadata verified. Optional device-check APK compiles; no installation, playback gestures, microphone or codec runtime was executed on an Android device here.
+Same official certificate and Android identity as 1.20; update preserves existing app data. The migration history for releases older than 1.20 remains documented in SIGNING.md.
