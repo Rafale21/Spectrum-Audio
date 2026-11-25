@@ -18,10 +18,6 @@ A free Android audio spectrogram app by **No Ads Studio**, with microphone analy
 
 Android **8.0 or later** · Current release **1.21** · No account required in the app.
 
-## Playback cursor
-
-The white playhead stays visible during playback. The view advances when it reaches the edge, keeping the current zoom. Disable **Follow playback automatically** in Settings and tap Apply to keep the view still; the choice is remembered. Graph gestures take priority while held. In pause or at the end, the cursor hides after 1.5 seconds of inactivity.
-
 ## What you can do
 
 - Visualize microphone sound as a scrolling spectrogram.
