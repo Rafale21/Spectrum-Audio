@@ -1,4 +1,4 @@
-![No Ads Studio — orange heart and audio spectrogram](assets/noads-studio-banner.png)
+<!-- ![No Ads Studio — orange heart and audio spectrogram](assets/noads-studio-banner.png)-->
 
 <h2>Screenshots</h2>
 
